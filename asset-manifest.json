@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-app-deploy/static/css/main.c2cab247.css",
+    "main.js": "/react-app-deploy/static/js/main.c6ef769f.js",
+    "index.html": "/react-app-deploy/index.html",
+    "main.c2cab247.css.map": "/react-app-deploy/static/css/main.c2cab247.css.map",
+    "main.c6ef769f.js.map": "/react-app-deploy/static/js/main.c6ef769f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.c6ef769f.js"
+  ]
+}
